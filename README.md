@@ -3,7 +3,7 @@
 
 <p align="left">
 <strong>
-- 👩‍💻 I've completed an 800 hours of the Fullstack Web Development bootcamp at <a href="https://mindhubweb.com/">Mindhub<a><br>
+- 👩‍💻 I've completed the 800 hours Fullstack Web Development bootcamp at <a href="https://mindhubweb.com/">Mindhub<a><br>
 - 🔭 I can't sing or play an instrument, but I can code, and I can create things that maybe didn't exist before, and examine and breakdown a problem, which is pretty neat.<br>
 - 💾 One of my favorite things is to examine technology in creative ways.<br>
 - 💯 Goals for this 2021: Start a new job in Software Development and acquire the war scars of a soldier.<br>
