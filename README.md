@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gianinna Márquez</h1>
-<h3 align="center">I'm a Fullstack Web Developer and an Engineer in process.</h3>
+<h3 align="center">I'm a Full Stack Web Developer and an Engineer in process.</h3>
 
 <p align="left">
 <strong>
