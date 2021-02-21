@@ -4,7 +4,7 @@
 <p align="left">
 <strong>
 - 👩‍💻 I've completed the 800 hour Full stack Web Development Bootcamp at <a href="https://mindhubweb.com/">Mindhub<a><br>
-- 🔭 I can't sing or play an instrument, but I can code, and I can create things that maybe didn't exist before, and examine and breakdown a problem, which is pretty neat.<br>
+- 🔭 I can't sing or play an instrument, but I can code, I can create things that maybe didn't exist before, examine and breakdown a problem, which is pretty neat.<br>
 - 💾 One of my favorite things is to examine technology in creative ways.<br>
 - 💯 Goals for this 2021: Start a new job in Software Development and acquire the war scars of a soldier.<br>
 - 🚴‍♀️ I love roller-skating and fixie bikes but with breaks 🤣</strong><br>
