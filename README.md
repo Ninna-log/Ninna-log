@@ -3,8 +3,8 @@
 
 <p align="left">
 <strong>
-- 👩‍💻 I've completed the 800 hour Full stack Web Development Bootcamp at <a href="https://mindhubweb.com/">Mindhub<a><br>
-- 🎓 I'm currently waiting for the equivalences of the previous engineering that I studied in order to be able to start Systems Engineering in <a href="http://www.ucaece.edu.ar/">Universidad CAECE<a><br>
+- 👩‍💻 I've completed the 800 hour Full stack Web Development Bootcamp at <a href="https://mindhubweb.com/">Mindhub<a> that implements the SCRUM methodology and simulates a real work environment.<br>
+- 🎓 I'm currently waiting for the equivalences of the previous engineering that I studied in order to be able to start Systems Engineering in <a href="http://www.ucaece.edu.ar/">Universidad CAECE.<a><br>
 - 🔭 I can't sing or play an instrument, but I can code, I can create things that maybe didn't exist before, examine and breakdown a problem, which is pretty neat.<br>
 - 🤓 I have a pretty long list of technologies that I want to master and study.<br>
 - 💾 One of my favorite things is to examine technology in creative ways.<br>
