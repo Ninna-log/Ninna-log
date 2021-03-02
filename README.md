@@ -18,7 +18,7 @@
 <a href="https://instagram.com/__hibris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__hybris" height="30" width="40" /></a>
 <a href="https://discord.gg/#3098" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#3098" height="30" width="40" /></a>
 </p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gianinna-marquez/" target="_blank">
+<a href="https://www.linkedin.com/in/gianinna-marquez/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
