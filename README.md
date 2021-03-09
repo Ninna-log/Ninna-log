@@ -3,19 +3,18 @@
 
 <p align="left">
 <strong>
-- 👩‍💻 I've completed the 800 hour Full stack Web Development Bootcamp at <a href="https://mindhubweb.com/">Mindhub<a> that implements the SCRUM methodology and simulates a real work environment.<br>
+- I've completed the 800 hour Full stack Web Development Bootcamp at <a href="https://mindhubweb.com/">Mindhub<a> that implements the SCRUM methodology and simulates a real work environment.<br>
 - 🎓 I'm currently waiting for the equivalences of the previous engineering that I studied in order to be able to start Systems Engineering at <a href="http://www.ucaece.edu.ar/">Universidad CAECE.<a><br>
-- 🔭 I can't sing or play an instrument, but I can code, I can create things that maybe didn't exist before, examine and breakdown a problem, which is pretty neat.<br>
-- 🤓 I have a pretty long list of technologies that I want to master and study.<br>
-- 💾 One of my favorite things is to examine technology in creative ways.<br>
+- I can't sing or play an instrument, but I can code, I can create things that maybe didn't exist before, examine and breakdown a problem, which is pretty neat.<br>
+- I have a pretty long list of technologies that I want to master and study.<br>
+- One of my favorite things is to examine technology in creative ways.<br>
 - 💯 Goals for this 2021: Start a new job in Software Development and acquire the war scars of a soldier.<br>
-- 🚴‍♀️ I love roller-skating and fixie bikes but with breaks 🤣</strong><br>
+- 🚴‍♀️ I love roller-skating and fixie bikes but with breaks </strong><br>
   </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__hybris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__hybris" height="30" width="40" /></a>
-<a href="https://instagram.com/__hibris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__hybris" height="30" width="40" /></a>
 <a href="https://discord.gg/#3098" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#3098" height="30" width="40" /></a>
 </p>
 <a href="https://www.linkedin.com/in/gianinna-marquez/" target="_blank">
