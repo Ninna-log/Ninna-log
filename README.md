@@ -23,19 +23,13 @@
   
 ---  
 
-<b>Connect with me:</b>
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/__hybris" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__hybris" height="30" width="40" /></a>
-<a href="https://discord.gg/#3098" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#3098" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/gianinna-marquez/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<a href="https://twitter.com/Ninna-log" target="blank"><img align="center" src="https://github.com/Ninna-log/Ninna-log/blob/main/assets/twitter.png" alt="twitter" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/gianinna-m%C3%A1rquez" target="blank"><img align="center" src="https://github.com/Ninna-log/Ninna-log/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:giani.marquez2@gmail.com" target="blank"><img align="center" src="https://github.com/Ninna-log/Ninna-log/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" /></a>
 </p>
-
-<b>If you wanna send me an email:</b> [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giani.marquez2@gmail.com)
-
-
----
 
 <!-- Languages and tools -->
 <b>Languages and tools</b>
