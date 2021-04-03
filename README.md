@@ -3,8 +3,8 @@
   <img src="https://profile-counter.glitch.me/{user-name}/count.svg" />  
 </p>  
 
-<h1 align="left">Hi 👋, I'm Gianinna Márquez</h1>
-<h3 align="left">I'm a Full Stack Web Developer and an Engineer in process.</h3>
+<h3 align="left">Hi there👋</h3>
+<h3 align="left">My name is Gianinna Márquez and I'm a Java Full Stack Developer and an Engineer in process.</h3>
 
 <p align="left">
 <strong>
