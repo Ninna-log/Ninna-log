@@ -65,7 +65,15 @@
 <br>
 
 ---
+
+
 <!-- Stats -->
 <h3>📈 My Dev Statistics: </h3>
-<!--START_SECTION:waka-->  
-<!--END_SECTION:waka--> 
+
+<br />
+<!-- waka time stats-->
+
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+<!--END_SECTION:waka-->
+<br />
