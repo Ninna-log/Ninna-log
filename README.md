@@ -24,7 +24,7 @@
 ---  
 
 <!-- Connect with me -->
-<b>Are you interested in collaboration? I'm up to any inspiring projects. <img src="https://github.com/Ninna-log/Ninna-log/blob/master/hackerman.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
+<b>Are you interested in collaboration? I'm up to any inspiring projects. <img src="https://github.com/Ninna-log/Ninna-log/blob/main/hackerman.gif" width="155" border="0" align="right" alt="gif" /> &nbsp;  
 Get in touch with me through the attached links:  </b>
 <p align="left">
 <a href="https://twitter.com/__Hybris" target="blank"><img align="center" src="https://github.com/Ninna-log/Ninna-log/blob/main/assets/twitter.png" alt="twitter" height="30" width="30" /></a>
