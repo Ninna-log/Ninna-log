@@ -1,8 +1,10 @@
 ![Banner](https://github.com/Ninna-log/Ninna-log/blob/main/profile-cover.png)  
-<b align="center"> 
-  You are visitor N°
-  <img src="https://profile-counter.glitch.me/Ninna-log/count.svg" />
-</b>
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Ninna-log/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
