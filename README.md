@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Ninna-log/Ninna-log/blob/main/profile-cover.png)  
 <table>
-  <tr>
+  <tr align="center">
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/Ninna-log/count.svg" alt="" /></td>
   </tr>
