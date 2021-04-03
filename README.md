@@ -9,14 +9,13 @@
 <h3 align="left">My name is Gianinna Márquez and I'm a Java Full Stack Developer and an Engineer in process.</h3>
 
 <p align="left">
-<strong>
 - I've completed the 800 hour Full stack Web Development Bootcamp at <a href="https://mindhubweb.com/">Mindhub<a> that implements the SCRUM methodology and simulates a real work environment.<br>
 - 🎓 I'm currently waiting for the equivalences of the previous engineering that I studied in order to be able to start Systems Engineering at <a href="http://www.ucaece.edu.ar/">Universidad CAECE.<a><br>
 - I can't sing or play an instrument, but I can code, I can create things that maybe didn't exist before, examine and breakdown a problem, which is pretty neat.<br>
 - I have a pretty long list of technologies that I want to master and study.<br>
 - One of my favorite things is to examine technology in creative ways.<br>
 - 💯 Goals for this 2021: Start a new job in Software Development and acquire the war scars of a soldier.<br>
-- 🚴‍♀️ I love roller-skating and fixie bikes but with breaks </strong><br>
+- 🚴‍♀️ I love roller-skating and fixie bikes but with breaks
   </p>
 
 <h3 align="left">Connect with me:</h3>
