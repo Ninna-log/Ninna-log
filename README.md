@@ -1,4 +1,4 @@
-![Banner](https://github.com/Ninna-log/Ninna-log/blob/main/profile-cover.png)  
+![Banner](https://github.com/Ninna-log/Ninna-log/blob/main/profile-photo.png)  
 <table>
   <tr>
     <td>You are visitor N°</td>
@@ -58,6 +58,7 @@
 </p>
 
 ---
+
 
 <!-- Spotify -->
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31da2jggdvidfsikwewprvjwlsmm)
