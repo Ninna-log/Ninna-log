@@ -24,12 +24,14 @@
 ---  
 
 <!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
+<b>Connect with me:</b>
 <p align="left">
 <a href="https://twitter.com/__Hybris" target="blank"><img align="center" src="https://github.com/Ninna-log/Ninna-log/blob/main/assets/twitter.png" alt="twitter" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/gianinna-m%C3%A1rquez" target="blank"><img align="center" src="https://github.com/Ninna-log/Ninna-log/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a>
 <a href="mailto:giani.marquez2@gmail.com" target="blank"><img align="center" src="https://github.com/Ninna-log/Ninna-log/blob/main/assets/gmail.png" alt="gmail" height="30" width="30" /></a>
 </p>
+
+---
 
 <!-- Languages and tools -->
 <b>Languages and tools</b>
@@ -54,7 +56,7 @@
 ---
 
 <!-- Stats -->
-<h3>📊 My Dev Statistics: </h3>
+<b>📊 My Dev Statistics: </b>
 
 <br />
 <!-- waka time stats-->
