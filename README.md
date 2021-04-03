@@ -59,14 +59,6 @@
 
 ---
 
-
-<!-- Spotify -->
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31da2jggdvidfsikwewprvjwlsmm)
-<br>
-
----
-
-
 <!-- Stats -->
 <h3>📊 My Dev Statistics: </h3>
 
