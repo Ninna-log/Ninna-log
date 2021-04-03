@@ -13,7 +13,7 @@
 
 <b>
 - I've completed the 800 hour Full stack Web Development Bootcamp at <a href="https://mindhubweb.com/">Mindhub<a> that implements the SCRUM methodology and simulates a real work environment.<br>
-- <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"> I'm currently waiting for the equivalences of the previous engineering that I studied in order to be able to start Systems Engineering at <a href="http://www.ucaece.edu.ar/">Universidad CAECE.<a><br>
+- I'm currently waiting for the equivalences of the previous engineering that I studied in order to be able to start Systems Engineering at <a href="http://www.ucaece.edu.ar/">Universidad CAECE.<a><br>
 - I can't sing or play an instrument, but I can code, I can create things that maybe didn't exist before, examine and breakdown a problem, which is pretty neat.<br>
 - I have a pretty long list of technologies that I want to master and study.<br>
 - One of my favorite things is to examine technology in creative ways.<br>
@@ -24,7 +24,8 @@
 ---  
 
 <!-- Connect with me -->
-<b>Connect with me:</b>
+<b>Are you interested in collaboration? I'm up to any inspiring projects. <img src="https://github.com/Ninna-log/Ninna-log/blob/master/hackerman.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
+Get in touch with me through the attached links:  </b>
 <p align="left">
 <a href="https://twitter.com/__Hybris" target="blank"><img align="center" src="https://github.com/Ninna-log/Ninna-log/blob/main/assets/twitter.png" alt="twitter" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/gianinna-m%C3%A1rquez" target="blank"><img align="center" src="https://github.com/Ninna-log/Ninna-log/blob/main/assets/linkedin.png" alt="linkedin" height="30" width="30" /></a>
@@ -82,6 +83,14 @@ Windows                  5 hrs 14 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 <br />
+
+---
+
+<!-- Spotify -->
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31da2jggdvidfsikwewprvjwlsmm)
+<br>
 
 ---
 
