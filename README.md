@@ -1,9 +1,12 @@
 ![Banner](https://github.com/Ninna-log/Ninna-log/blob/main/profile-cover.png)  
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/{user-name}/count.svg" />  
-</p>  
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Ninna-log/count.svg" alt="" /></td>
+  </tr>
+</table>
 
-<h3 align="left">Hi there👋</h3>
+<h2 align="left">Hi there👋</h2>
 <h3 align="left">My name is Gianinna Márquez and I'm a Java Full Stack Developer and an Engineer in process.</h3>
 
 <p align="left">
