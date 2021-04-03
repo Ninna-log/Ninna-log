@@ -86,12 +86,4 @@ Windows                  5 hrs 14 mins       ███████████�
 
 ---
 
-<!-- Spotify -->
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31da2jggdvidfsikwewprvjwlsmm)
-<br>
-
----
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people from around the world and building tech communities, so if you want to be my friend, feel free to <a href="https://twitter.com/__Hybris">reach out</a> and say hi</b></em>
