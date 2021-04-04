@@ -57,33 +57,7 @@ Get in touch with me through the attached links:  </b>
 ---
 
 <!-- Stats -->
-<b>📊 My Dev Statistics: </b>
-
-<br />
 <!-- waka time stats-->
-
 <!--START_SECTION:waka-->
-```text
-⌚︎ Time Zone: Argentina/Buenos Aires
 
-💬 Programming Languages: 
-Java                     1 hrs 18 mins       ███████████████░░░░░░░░░░   63.17% 
-JavaScript               1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   29.24% 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
-Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
-
-🔥 Editors: 
-IntelliJ IDEA            5 hrs 5 mins        ████████████████████████░   97.12% 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88%
-
-💻 Operating System: 
-Windows                  5 hrs 14 mins       █████████████████████████   100.0%
-
-```
-<!--END_SECTION:waka-->
-<br />
-
----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people from around the world and building tech communities, so if you want to be my friend, feel free to <a href="https://twitter.com/__Hybris">reach out</a> and say hi</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people from around the world and building tech communities, so feel free to <a href="https://twitter.com/__Hybris">and say hi</a></b></em>
