@@ -60,4 +60,4 @@ Get in touch with me through the attached links:  </b>
 <!-- waka time stats-->
 <!--START_SECTION:waka-->
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people from around the world and building tech communities, so feel free to <a href="https://twitter.com/__Hybris">and say hi</a></b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with different people from around the world and building tech communities, so feel free to contact me <a href="https://twitter.com/__Hybris">and say hi</a></b></em>
