@@ -3,7 +3,7 @@
   <tr>
     <td>You are visitor N°</td>
     <td><img src="https://profile-counter.glitch.me/Ninna-log/count.svg" alt="" /></td>
-    <td>with a fingerprinting</td>
+    <td>with a fingerprinting (I'll know who u are :D)</td>
   </tr>
 </table>
 
