@@ -1,4 +1,4 @@
-![Banner](https://github.com/Ninna-log/Ninna-log/blob/main/profile-photo.png)  
+
 <table>
   <tr>
     <td>You are visitor N°</td>
@@ -66,5 +66,7 @@ Get in touch with me through the attached links:  </b>
 ---
   
 <!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/4cba833c-b86f-481b-bb2f-658d27dcc781.svg)](https://wakatime.com/@4cba833c-b86f-481b-bb2f-658d27dcc781)
+
   
 <!--END_SECTION:waka-->
