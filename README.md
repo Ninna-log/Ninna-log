@@ -66,5 +66,5 @@ Get in touch with me through the attached links:  </b>
 ---
   
 <!--START_SECTION:waka-->
-  https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=waka_6c018c70-27a4-42dd-91e9-57bfc7509759
+  
 <!--END_SECTION:waka-->
