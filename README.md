@@ -8,12 +8,10 @@
 
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<h3 align="left">My name is Gianinna Márquez, I'm a Software Developer and an Engineer in process.</h3>
+<h3 align="left">My name is Gianinna Márquez, I'm a Developer and an Engineer in process.</h3>
 
 <b>
 - I'm currently studying Systems Engineering at <a href="http://www.ucaece.edu.ar/">Universidad CAECE.<a><br>
-- I have a pretty long list of technologies that I want to master and study.<br>
-- 🚴‍♀️ I love roller-skating and fixie bikes but with breaks
 </b>
   
 ---  
